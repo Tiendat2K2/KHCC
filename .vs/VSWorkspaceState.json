@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\config",
+    "\\src\\controllers",
+    "\\src\\middleware",
+    "\\src\\models",
+    "\\src\\routes",
+    "\\src\\swagger"
+  ],
+  "SelectedNode": "\\src\\routes\\sileRoutes.js",
+  "PreviewInSolutionExplorer": false
+}
